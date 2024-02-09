@@ -1,0 +1,59 @@
+a{
+    text-decoration: none;
+    color: white;
+    padding: 0px 20px 0px 30px;
+}
+
+/* .arrow-right::before{
+    content: "\f0da";
+    font-family: "Font Awesome 5 Free";
+    margin-right: 8px;
+    font-weight: 700;
+    font-size: 15px;
+    color: #FB9203;
+    position: relative;
+    top: -1px;
+    
+} */
+
+.arrow{
+    margin-top: 3px;
+}
+h2{
+    width: 95%;
+}
+
+/* .for-hover{
+    padding: 30px 20px 20px 10px;
+} */
+
+
+/* .for-hover::before{
+    content: "";
+    position: absolute;
+    background: #FB9203;
+    padding: 22px 20px 14px 20px;
+    transition: all 0.2s ease-out 0s;
+    border-radius: 3px 8px 0px 0px;
+    margin-top: -20px;
+    opacity: 0;
+    display: block;
+} */
+
+/* .for-hover:hover{
+    content: "";
+    position: absolute;
+    background: #FB9203;
+    padding: 22px 20px 14px 20px;
+    transition: all 0.2s ease-out 0s;
+    border-radius: 3px 8px 0px 0px;
+    opacity: 0;
+    margin-top: -20px;
+} */
+
+
+
+
+.for-hover:hover{
+    background: #FB9203;
+}
